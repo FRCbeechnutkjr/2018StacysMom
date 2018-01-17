@@ -286,3 +286,6 @@ org.eclipse.core.internal.resources.ResourceException: Project '2018StacysMom' i
 
 !ENTRY WPILib_Java_Robot_Development 1 0 2018-01-16 16:47:51.450
 !MESSAGE Adding: CTRE_Phoenix.jar to project: 2018StacysMom
+
+!ENTRY riolog 1 0 2018-01-16 17:05:36.365
+!MESSAGE exiting listener
