@@ -1,2 +1,10 @@
 /.metadata/
+<<<<<<< HEAD
 .metadata/.plugins/org.eclipse.cdt.core/.log
+=======
+<<<<<<< HEAD
+*.lock
+=======
+/.recommenders/
+>>>>>>> xavier
+>>>>>>> 495fc215253dc2e25dbc5117f7cd5061ed20850c
